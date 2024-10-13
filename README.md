@@ -20,7 +20,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICEN
 
 ## İletişim
 
-Herhangi bir sorunuz veya öneriniz varsa, [Sarus Adgac](https://x.com/sarusadgac/) üzerinden bana ulaşabilirsiniz.
+Herhangi bir sorunuz veya öneriniz varsa, [sarusadgac](https://x.com/sarusadgac/) üzerinden bana ulaşabilirsiniz.
 
 ---
 
@@ -46,4 +46,4 @@ This project is licensed under the MIT License. For more information, please ref
 
 ## Contact
 
-If you have any questions or suggestions, you can reach me via [Sarus Adgac](https://x.com/sarusadgac/).
+If you have any questions or suggestions, you can reach me via [sarusadgac](https://x.com/sarusadgac/).
